@@ -1,0 +1,21 @@
+/* this is for responsive design */
+.songInfo img{
+    width:40px;
+}
+
+#masterSongName{    
+    opacity:0;
+}
+
+.songList h1{
+    font-size:1.5rem;
+}
+
+.songItem{
+    width:35vh;
+    padding:0px;
+}
+
+.container{
+    min-height: 55vh;
+}
